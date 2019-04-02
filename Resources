@@ -1,0 +1,4 @@
+# https://automating-gis-processes.github.io/2018/2017/lessons/L5/interactive-map-bokeh.html
+# Found this document on interactive maps with Bokeh. I use Bokeh to do simple maps at work for new construction, clients like them. 
+# They are nice because you can zoom in/out and in some cases hover over a value with your cursor and see additional data. May be
+# interesting for our project. 
